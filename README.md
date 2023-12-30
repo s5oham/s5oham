@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Seungho%20Ham&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
-<h1 left="center">Hi 👋, I'm SeungHo Ham</h1>
-<h3 left="center">A passionate backend developer</h3>
+<h1 align="left">Hi 👋, I'm SeungHo Ham</h1>
+<h3 align="left">A passionate backend developer</h3>
 
 - 🔭 I’m currently working on []()
 
