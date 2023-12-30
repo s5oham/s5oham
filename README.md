@@ -3,17 +3,6 @@
 </p>
 <h1 align="left">Hi 👋, I'm SeungHo Ham</h1>
 <h3 align="left">A passionate backend developer</h3>
-
-- 🔭 I’m currently working on []()
-
-- 🌱 I’m currently learning ****
-
-- 👯 I’m looking to collaborate on []()
-
-- 🤝 I’m looking for help with []()
-
-- 📫 How to reach me ****
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/h._.seung_ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h._.seung_ho" height="30" width="40" /></a>
