@@ -2,18 +2,18 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Seungho%20Ham&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm SeungHo Ham</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h1 left="center">Hi 👋, I'm SeungHo Ham</h1>
+<h3 left="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on [A](A-1)
+- 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning ****
 
-- 👯 I’m looking to collaborate on [B](B-1)
+- 👯 I’m looking to collaborate on []()
 
-- 🤝 I’m looking for help with [C](C-1)
+- 🤝 I’m looking for help with []()
 
-- 📫 How to reach me **bc1206@naver.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
