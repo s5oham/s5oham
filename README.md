@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient=600&section=header&text=Hi%20I'm%20Seungho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient=600&section=header&text=Hi%20I'm%20Seungho&fontSize=50)
 
 ### Hi there 👋
 
