@@ -1,7 +1,5 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-<h1 align="center">Hi 👋, I'm Seungho Ham</h1>
-<h3 align="center">Coding that changes the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s2ungho&label=Profile%20views&color=0e75b6&style=flat" alt="s2ungho" /> </p>
 
@@ -16,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s2ungho&show_icons=true&locale=en&layout=compact" alt="s2ungho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s2ungho&show_icons=true&locale=en" alt="s2ungho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s2ungho&" alt="s2ungho" /></p>
